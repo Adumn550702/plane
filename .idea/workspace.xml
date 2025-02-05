@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="790ce602-bc87-45d0-aa24-8963e7db36d1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2N205qiycQcyM392HCsn60l2mIp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GameWin.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/飞机大战3.0/19-为boss添加血条/PlaneWar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\视频录制\新建文件夹\PlaneWar\imgs" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="790ce602-bc87-45d0-aa24-8963e7db36d1" name="Changes" comment="" />
+      <created>1678846694203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678846694203</updated>
+      <workItem from="1678846694203" duration="2253000" />
+      <workItem from="1678851433325" duration="3020000" />
+      <workItem from="1678866899669" duration="762000" />
+      <workItem from="1678929217864" duration="2742000" />
+      <workItem from="1678932079714" duration="1297000" />
+      <workItem from="1678933607996" duration="2667000" />
+      <workItem from="1679031085829" duration="102000" />
+      <workItem from="1679188009878" duration="432000" />
+      <workItem from="1679188650639" duration="4483000" />
+      <workItem from="1679193390177" duration="2739000" />
+      <workItem from="1679197262710" duration="261000" />
+      <workItem from="1679197575450" duration="9621000" />
+      <workItem from="1679543361582" duration="1671000" />
+      <workItem from="1679551805227" duration="3638000" />
+      <workItem from="1679559765855" duration="1487000" />
+      <workItem from="1679561280185" duration="710000" />
+      <workItem from="1679562052774" duration="2612000" />
+      <workItem from="1679566016194" duration="688000" />
+      <workItem from="1679620032987" duration="5720000" />
+      <workItem from="1679810851990" duration="2455000" />
+      <workItem from="1679814462376" duration="1696000" />
+      <workItem from="1679816236206" duration="1927000" />
+      <workItem from="1736731025919" duration="309000" />
+      <workItem from="1736778518442" duration="2949000" />
+      <workItem from="1736948990082" duration="95000" />
+      <workItem from="1737059411744" duration="1080000" />
+      <workItem from="1737101551580" duration="277000" />
+      <workItem from="1737342869678" duration="639000" />
+      <workItem from="1737726092074" duration="661000" />
+      <workItem from="1737727940716" duration="265000" />
+      <workItem from="1737728347905" duration="156000" />
+      <workItem from="1737728524250" duration="19000" />
+      <workItem from="1737729057895" duration="112000" />
+      <workItem from="1738331145555" duration="457000" />
+      <workItem from="1738331798483" duration="67000" />
+      <workItem from="1738332330674" duration="57000" />
+      <workItem from="1738335587106" duration="60000" />
+      <workItem from="1738590428320" duration="881000" />
+      <workItem from="1738591470051" duration="56000" />
+      <workItem from="1738705033751" duration="438000" />
+      <workItem from="1738706853276" duration="128000" />
+      <workItem from="1738714878256" duration="47000" />
+      <workItem from="1738715256966" duration="122000" />
+      <workItem from="1738715389555" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
