@@ -42,6 +42,9 @@ public class GameUtils {
 	public static Image bossBulletImg= Toolkit.getDefaultToolkit().getImage("imgs/bossbullet.png");
 	//获取警示标志的图片
 	public static Image warningImg= Toolkit.getDefaultToolkit().getImage("imgs/warning.gif");
+	public static Image lifeImg= Toolkit.getDefaultToolkit().getImage("imgs/life.png");
+
+
 
 
 
