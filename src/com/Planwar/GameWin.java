@@ -11,7 +11,6 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
 public class GameWin extends JFrame {
-	//记录游戏状态的变量
 	//0未开始 1游戏中，2暂停，3失败，4通关
 	public static int state = 0;
 	//背景图对象
